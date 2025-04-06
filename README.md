@@ -48,9 +48,7 @@ This will start:
 - MongoDB on port **27017**
 - Scraper on port **8000** (internal)
 - Backend API on port **3001**
-- Frontend on port **3000** (or **5173** in dev mode)
-
-> ⚠️ In dev mode, the frontend may serve on `5173` due to Vite.
+- Frontend on port **5173**
 
 ---
 
